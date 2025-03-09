@@ -1,8 +1,8 @@
 # E-Commerce-OM-Store-Data-Business-Dashboard
-..!!..This projects OM store Data Business Analysis Using Excel
+..!!..This projects Viranda store Data Business Analysis Using Excel
 
-.This Projects are OM store wants to created an annual sales report for year 2024 and
-  OM can understand thier customers grown more sales for next year.
+.This Projects are Viranda store wants to created an annual sales report for year 2024 and
+  Viranda can understand thier customers grown more sales for next year.
 
   1.Worebook are creating data in cell for Excel file
   2.Data Cleaning in Excel
